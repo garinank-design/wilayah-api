@@ -1,0 +1,13 @@
+{
+  "name": "wilayah-api",
+  "version": "1.0.0",
+  "description": "API data wilayah administrasi Indonesia - Kepmendagri 2025",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

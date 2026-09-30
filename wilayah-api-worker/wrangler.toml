@@ -1,0 +1,8 @@
+name = "wilayah-api"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "wilayah-db"
+database_id = "5b480140-bb46-4395-a924-3f8cfe7ec903" # ← isi setelah `wrangler d1 create wilayah-db`
